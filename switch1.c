@@ -53,7 +53,7 @@ void main()
 			break;
 			
 		default:
-			printf("\n WRONG YOUR_CHOICE "); //DEFAULT CAN BE OPTIONAL
+			printf("\n WRONG YOUR_CHOICE MAY BE YOUR MOM "); //DEFAULT CAN BE OPTIONAL
 	}
 	
 	
