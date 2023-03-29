@@ -1,0 +1,63 @@
+/*
+
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+Functional Requirement 1: The app should allow users to browse news articles from different categories.
+
+Test Case 1:
+
+Open the Inshorts app and navigate to the news section.
+Select a category such as Sports or Politics.
+Verify that the app displays a list of news articles related to that category.
+Test Case 2:
+
+Open the Inshorts app and navigate to the news section.
+Scroll down to the bottom of the page and select the "More" button.
+Verify that the app displays additional categories for the user to select from.
+Functional Requirement 2: The app should allow users to share news articles via social media or messaging apps.
+
+Test Case 1:
+
+Open the Inshorts app and navigate to a news article.
+Select the share button.
+Verify that the app displays a list of options for the user to share the article, such as WhatsApp or Facebook.
+Test Case 2:
+
+Open the Inshorts app and navigate to a news article.
+Select the share button and select the "Copy Link" option.
+Paste the link into a web browser and verify that it leads to the original article.
+Functional Requirement 3: The app should allow users to save articles for reading later.
+
+Test Case 1:
+
+Open the Inshorts app and navigate to a news article.
+Select the save button.
+Verify that the app displays a confirmation message that the article has been saved.
+Test Case 2:
+
+Open the Inshorts app and navigate to the saved articles section.
+Verify that the article previously saved in Test Case 1 is displayed in the list.
+Functional Requirement 4: The app should allow users to personalize their news feed based on their interests.
+
+Test Case 1:
+
+Open the Inshorts app and navigate to the "Your Feed" section.
+Select the "Personalize" button.
+Select several categories of interest and save changes.
+Verify that the app displays news articles related to the selected categories.
+Test Case 2:
+
+Open the Inshorts app and navigate to the "Your Feed" section.
+Select the "Reset" button to remove any previously selected interests.
+Verify that the app displays a default set of news articles.
